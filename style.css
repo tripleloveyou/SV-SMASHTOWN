@@ -9,4 +9,17 @@ h1{
 body {
  background-image: url("svpfp.jpg");
 }
-    
+.text2{
+    font-family: 'Alfa Slab One', cursive;
+    text-align: center;
+    text-weight:normal;
+    color: blue;
+    font-size: 30px
+}
+.text3{
+    font-family: 'Alfa Slab One', cursive;
+    text-align: center;
+    text-weight:normal;
+    color: purple;
+    font-size: 25px;
+}
