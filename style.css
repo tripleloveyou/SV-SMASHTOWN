@@ -32,6 +32,13 @@ body{
     text-align:center;
     font-size:40px;
 }
+
+#titleText{
+    color:red;
+    font-family:"Alfa Slab One", cursive;
+    text-align:center;
+    font-size:35px;
+}
 #description{
     font-size: 30px;
     text-align:center;
